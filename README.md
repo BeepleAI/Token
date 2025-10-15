@@ -11,6 +11,6 @@ BeepleAI is a tokenized AI Influencer built on BNB Chain and powered by Xeleb Pr
 ##  Supported Networks
 - BNB Smart Chain Mainnet (Chain ID: 56)
 
-Contract Addresses
+##  Contract Addresses
 
 BNB Mainnet 0x7bcd1bc43affdf85b18c5a7f8a9ef547a19b96b8
